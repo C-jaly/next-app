@@ -1,0 +1,24 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "next.js实践APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/C-jaly/next-app.git"
+  },
+  "keywords": [
+    "next.js",
+    "react",
+    "node"
+  ],
+  "author": "C-Jaly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-jaly/next-app/issues"
+  },
+  "homepage": "https://github.com/C-jaly/next-app#readme"
+}
